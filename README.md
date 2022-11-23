@@ -19,6 +19,6 @@ enthusiastic with customer service orientation. Highly skilled in Python and R, 
 
 ### 📊 Stats
 
-![Spliichx01's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Spliichx01's GitHub stats](https://github-readme-stats.vercel.app/api?username=spliichx01&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
