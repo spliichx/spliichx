@@ -10,7 +10,7 @@ enthusiastic with customer service orientation. Highly skilled in Python and R, 
 <h1 align="center">Hi 👋, I'm Chukwudi Aboaja</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 💬 Ask me about **Machine learning , Deep learning and Devops**
+- 💬 Ask me about **Machine learning and Deep learning**
 
 - 📫 How to reach me **chukwudi.aboaja@gmail.com**
 
