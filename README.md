@@ -62,11 +62,7 @@ enthusiastic with customer service orientation. Highly skilled in Python and R, 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_horizontal_color.png" alt="airflow" width="80" height="40"/>
-</a>
 
 </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spliichx01&show_icons=true&locale=en&layout=compact" alt="spliichx01" /></p>
