@@ -67,7 +67,6 @@ enthusiastic with customer service orientation. Highly skilled in Python and R, 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spliichx01&show_icons=true&locale=en&layout=compact" alt="spliichx01" /></p>
 
-### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spliichx01&show_icons=true&theme=default" alt="Chukwudi's GitHub stats" />
