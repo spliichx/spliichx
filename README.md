@@ -39,8 +39,7 @@ I smile a lot 😊
 
 ---
 
-<h3 align="left">🛠️ Tools & Technologies</h3>
-<p align="left">
+### 🔨 Languages and Tools
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="42"/>
   </a>
