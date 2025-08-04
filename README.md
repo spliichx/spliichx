@@ -41,14 +41,14 @@ I smile a lot 😊
 
 <h3 align="left">🛠️ Tools & Technologies</h3>
 <p align="left">
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
   </a>
   
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
