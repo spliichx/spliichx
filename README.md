@@ -15,6 +15,7 @@ Motivated Data Scientist with over 5 years of experience in Machine Learning, Bi
 ---
 
 💬 **Ask me about**  
+- Data Analytics
 - Machine Learning  
 - Deep Learning  
 - Data Processing Pipelines  
