@@ -45,10 +45,10 @@ I smile a lot 😊
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
   </a>
   
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -85,6 +85,8 @@ I smile a lot 😊
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+ 
+  
 </p>
 
 ---
