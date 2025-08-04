@@ -76,10 +76,6 @@ I smile a lot 😊
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
   </a>
 
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/microsoft-fabric/main/assets/logo.svg" alt="microsoft fabric" width="40" height="40"/>
-  </a>
-
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
   </a>
