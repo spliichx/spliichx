@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-🎯 **About Me**
+**About Me**
 
 Motivated Data & Analytics professional with over 5 years of experience in Machine Learning, Big Data, and Artificial Intelligence. I am results-driven, customer-oriented, and passionate about leveraging data to solve real-world problems. My core strengths lie in predictive modeling, data processing, and statistical analysis using tools like Python, R, and SQL. I'm also experienced in working across cloud platforms and deploying scalable data solutions.
 
 ---
 
-💬 **Ask me about**  
+**Ask me about**  
 - Data Analytics
 - Machine Learning  
 - Deep Learning  
@@ -23,10 +23,6 @@ Motivated Data & Analytics professional with over 5 years of experience in Machi
 
 📫 **Reach me at:**  
 **Email:** chukwudi.aboaja@gmail.com
-
-⚡ **Fun fact:**  
-I smile a lot 😊
-
 ---
 
 <h3 align="left">Connect with me:</h3>
