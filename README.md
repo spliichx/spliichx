@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Chux</h1>
-<h3 align="center">Data Analyst | Data Scientist | Business Intelligence</h3>
+<h3 align="center">Data Analyst | Data Scientist</h3>
 
 ---
 
