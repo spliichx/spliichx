@@ -21,10 +21,6 @@ Motivated Data & Analytics professional with over 5 years of experience in Machi
 - Data Processing Pipelines  
 - End-to-End Model Deployment  
 
-📫 **Reach me at:**  
-**Email:** chukwudi.aboaja@gmail.com
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/chukwudi-aboaja" target="blank">
