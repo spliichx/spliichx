@@ -22,8 +22,7 @@ Motivated Data & Analytics professional with over 5 years of experience in Machi
 - End-to-End Model Deployment  
 
 📫 **Reach me at:**  
-**Email:** chukwudi.aboaja@gmail.com  
-**LinkedIn:** [chukwudi-aboaja](https://linkedin.com/in/chukwudi-aboaja)
+**Email:** chukwudi.aboaja@gmail.com
 
 ⚡ **Fun fact:**  
 I smile a lot 😊
