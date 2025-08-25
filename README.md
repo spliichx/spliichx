@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 **About Me**
 
-### Data & Analytics professional with 5+ years of experience turning complex data into actionable insights.
+<span style="font-size:12px;"> Data & Analytics professional with 5+ years of experience turning complex data into actionable insights.</span>
 ---
 
 <h3 align="left">Connect with me:</h3>
