@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 **About Me**
-
 **Data & Analytics professional with 5+ years of experience turning complex data into actionable insights.**
 ---
 
