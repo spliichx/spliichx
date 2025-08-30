@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 **About Me**
 
-I’m a **Full-Stack Data Professional** with experience in data analysis, machine learning, and engineering scalable data pipelines. 
-I turn complex datasets into actionable insights and production-ready solutions, bridging the gap between analytics, modeling, and data infrastructure.
+#### I’m a **Full-Stack Data Professional** with experience in data analysis, machine learning, and engineering scalable data pipelines. 
+#### I turn complex datasets into actionable insights and production-ready solutions, bridging the gap between analytics, modeling, and data infrastructure.
 ---
 
 <h3 align="left">Connect with me:</h3>
