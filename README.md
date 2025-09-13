@@ -83,6 +83,10 @@ You can click the Preview link to take a look at your changes.
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
       </a>
     </td>
+    <td style="padding-left:10px;">
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
   </tr>
 </table>
 
