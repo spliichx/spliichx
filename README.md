@@ -69,6 +69,11 @@ You can click the Preview link to take a look at your changes.
       </a>
     </td>
     <td style="padding-left:10px;">
+      <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" alt="Apache Airflow" width="40" height="40"/>
+      </a>
+    </td>
+    <td style="padding-left:10px;">
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
       </a>
@@ -87,6 +92,13 @@ You can click the Preview link to take a look at your changes.
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
+  <td style="padding-left:10px;">
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/l/dbt-icon.png" alt="dbt" width="40" height="40"/>
+  </a>
+</td>
+
+
   </tr>
 </table>
 
