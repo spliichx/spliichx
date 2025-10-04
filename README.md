@@ -4,12 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Chux</h1>
-
-
-**About Me**
-
-#### I’m a **Full-Stack Data Professional** with experience in data analysis, machine learning, and engineering scalable data pipelines. 
----
+I’m a Full-Stack Data Professional with experience in data analysis, machine learning, and engineering scalable data pipelines. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
