@@ -92,12 +92,8 @@ I’m a Full-Stack Data Professional with experience in data analysis, machine l
     <img src="https://logo.svgcdn.com/l/dbt-icon.png" alt="dbt" width="40" height="40"/>
   </a>
 </td>
-
-
   </tr>
 </table>
-
-
 ---
 
 <p>
