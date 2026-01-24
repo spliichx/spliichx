@@ -74,8 +74,12 @@ I’m a Full-Stack Data Professional with experience in data analysis, machine l
       </a>
     </td>
     <td style="padding-left:10px;">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+      <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg"
+       alt="databricks"
+       width="40"
+       height="40"
+      style="filter: invert(1);"/>
       </a>
     </td>
     <td style="padding-left:10px;">
