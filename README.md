@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Chux</h1>
-Data professional with hands-on experience in analytics, machine learning, and scalable data pipelines, progressing toward full-stack data work
+Data professional with hands-on experience in analytics, machine learning, and scalable data pipelines, progressing toward full-stack data work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
